@@ -626,9 +626,9 @@ https://yourusername.github.io/amal-nama/
 
 | Team Member | Roll # | Tasks |
 |------------|--------|-------|
-| Ali Ibrahim | 24F-3009 | abi tk kuch ni |
-| Azka Faisal | 24F-3068 | code and figma shi |
-| Misbah Irfan | 24F-3003 | abi tk kuch ni|
+| Ali Ibrahim | 24F-3009 | Documentation and Code Implementation, Testing |
+| Azka Faisal | 24F-3068 | Figma Design and Code Implementation, Testing |
+| Misbah Irfan | 24F-3003 | System Architecture,Diagrams,Slides, Testing|
 
 ## License
 This project is created for educational purposes as part of the Software Engineering course. 
